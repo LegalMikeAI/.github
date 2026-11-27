@@ -1,6 +1,6 @@
 ## LegalMike
 
-**Making the law accessible.**
+**Make your case.**
 
 [LegalMike](https://legalmike.ai) is legal research for Dutch and EU law, built
 for lawyers and legal professionals. It searches primary sources — case law,
